@@ -78,7 +78,7 @@ if streamlit.button('Get Fruit Load List'):
     streamlit.dataframe(my_data_rows)
     
 # don't run anything past here while we troubleshoot 
-streamlit.stop()
+#streamlit.stop()
     
     
 #my_cur = my_cnx.cursor()
